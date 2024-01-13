@@ -22,4 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=rohit-singhal4&icon=5&color=9)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
+<div style="text-align: right;">
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
+</div>
