@@ -1,5 +1,5 @@
 # Rohit Singhal
-**Software Development Engineer - New Grad**
+### Software Development Engineer - New Grad
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/RohitSinghal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rohit_singhal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RohitSinghal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_singhal4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitpsinghal) 
 
@@ -22,6 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=rohit-singhal4&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<div style="text-align: right;">
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
