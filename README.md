@@ -21,4 +21,5 @@ I am currently working on a mobile app built using Flutter for a mental health o
 ---
 [![](https://visitcount.itsvg.in/api?id=rohit-singhal4&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
