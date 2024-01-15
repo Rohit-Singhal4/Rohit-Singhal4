@@ -23,7 +23,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Rohit-Singhal4&theme=gotahm&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Rohit-Singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 💿 What I'm listening to:
