@@ -6,9 +6,6 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
 #### Tech Stack / Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -24,6 +21,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 #### 💿 What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
