@@ -1,10 +1,10 @@
 # Rohit Singhal®️
 
 ### Software Development Engineer - New Grad 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitpsinghal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rohit_singhal)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_singhal4)
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitpsinghal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rohit_singhal)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_singhal4) <br/>
 
-#### Hi! I'm Rohit Singhal, an *aspiring holistic human*.
+### Hi! I'm Rohit Singhal, an *aspiring holistic human*.
 
 #### Tech Stack / Skills
 ---
