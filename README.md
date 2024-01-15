@@ -22,9 +22,11 @@
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rohit-Singhal4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Singhal4&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Rohit-Singhal4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Singhal4&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Singhal4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 💿 What I'm listening to:
