@@ -7,7 +7,6 @@
 #### Hi! I'm Rohit Singhal, an *aspiring holistic human*.
 
 <br/>
-<br/>
 
 #### Tech Stack / Skills
 ---
