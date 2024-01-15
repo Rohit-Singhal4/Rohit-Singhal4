@@ -1,11 +1,13 @@
 # Rohit Singhal®️
 
 ### Software Development Engineer - New Grad 
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitpsinghal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rohit_singhal)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_singhal4) <br/>
 
 #### Hi! I'm Rohit Singhal, an *aspiring holistic human*.
 
 #### Tech Stack / Skills
+---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,4 +29,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Singhal4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 💿 What I'm listening to:
+---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=225k4mlevcga6ajjtdacpzitq&redirect=true)
